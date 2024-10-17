@@ -1,20 +1,20 @@
-# lustre_lucide
+# lucide_lustre
 
-[![Package Version](https://img.shields.io/hexpm/v/lustre_lucide)](https://hex.pm/packages/lustre_lucide)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/lustre_lucide/)
+[![Package Version](https://img.shields.io/hexpm/v/lucide_lustre)](https://hex.pm/packages/lucide_lustre)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/lucide_lustre/)
 
 ```sh
-gleam add lustre_lucide@1
+gleam add lucide_lustre@1
 ```
 ```gleam
-import lustre_lucide
+import lucide_lustre
 
 pub fn main() {
   // TODO: An example of the project in use
 }
 ```
 
-Further documentation can be found at <https://hexdocs.pm/lustre_lucide>.
+Further documentation can be found at <https://hexdocs.pm/lucide_lustre>.
 
 ## Development
 
