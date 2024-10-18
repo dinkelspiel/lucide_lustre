@@ -3,3 +3,4 @@
 /build
 erl_crash.dump
 lucide
+./src/lucide_lustre.gleam
