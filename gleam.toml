@@ -1,6 +1,6 @@
 name = "lucide_lustre"
 target = "javascript"
-version = "2.0.0"
+version = "2.0.1"
 description = "A library providing https://lucide.dev icons to lustre"
 licences = ["MIT"]
 repository = { type = "github", user = "dinkelspiel", repo = "lucide_lustre" }
