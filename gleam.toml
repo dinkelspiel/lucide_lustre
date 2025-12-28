@@ -1,6 +1,6 @@
 name = "lucide_lustre"
 target = "javascript"
-version = "2.0.1"
+version = "2.0.2"
 description = "A library providing https://lucide.dev icons to lustre"
 licences = ["MIT"]
 repository = { type = "github", user = "dinkelspiel", repo = "lucide_lustre" }
@@ -12,7 +12,7 @@ runtime = "deno"
 gleam_stdlib = ">= 0.34.0 and < 2.0.0"
 lustre = "~> 4.5 or ~> 5.0"
 argv = ">= 1.0.2 and < 2.0.0"
-tom = ">= 1.1.0 and < 2.0.0"
+tom = ">= 1.1.0 and ~> 2.0"
 gleamyshell = ">= 2.0.1 and < 3.0.0"
 globlin = ">= 2.0.2 and < 3.0.0"
 simplifile = ">= 2.2.0 and < 3.0.0"
