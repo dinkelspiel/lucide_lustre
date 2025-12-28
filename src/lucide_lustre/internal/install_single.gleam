@@ -41,7 +41,7 @@ import lustre/element/svg"
   }
 
   use <- bool.guard(
-    case string.contains(file, "pub fn " <> name) {
+    case string.contains(file, "pub fn " <> name <> "(") {
       True -> {
         io.println("Icon " <> icon_name <> " is already installed")
         True
